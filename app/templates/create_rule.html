@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Create Rule</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/combine_rules">Combine Rules</a></li>
+            <li><a href="/evaluate_rule">Evaluate Rule</a></li>
+        </ul>
+    </nav>
+    <div class="content">
+        <h1>Create Rule</h1>
+        <form id="create-rule-form">
+            <label for="rule_string">Rule String:</label>
+            <input type="text" id="rule_string" name="rule_string" required>
+            <button type="submit">Create Rule</button>
+        </form>
+        <pre id="create-rule-result"></pre>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
