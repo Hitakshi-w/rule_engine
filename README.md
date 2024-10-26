@@ -70,8 +70,8 @@ flask run
 Open your browser and navigate to http://localhost:5000 to access the web interface.
 
 # Interact with the Application
--**Create Rule:** Navigate to the "Create Rule" page, enter a rule string, and submit the form to create a rule.
--**Combine Rules:** Navigate to the "Combine Rules" page, enter rule IDs, and submit the form to combine rules.
--**Evaluate Rule:** Navigate to the "Evaluate Rule" page, enter the AST JSON and data JSON, and submit the form to evaluate the rule.
+- **Create Rule:** Navigate to the "Create Rule" page, enter a rule string, and submit the form to create a rule.
+- **Combine Rules:** Navigate to the "Combine Rules" page, enter rule IDs, and submit the form to combine rules.
+- **Evaluate Rule:** Navigate to the "Evaluate Rule" page, enter the AST JSON and data JSON, and submit the form to evaluate the rule.
 
 # Demo
