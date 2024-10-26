@@ -75,5 +75,7 @@ Open your browser and navigate to http://localhost:5000 to access the web interf
 - **Evaluate Rule:** Navigate to the "Evaluate Rule" page, enter the AST JSON and data JSON, and submit the form to evaluate the rule.
 
 # Demo
-https://github.com/user-attachments/assets/31744fc4-5fe5-4c63-9c76-f673e383256e
+https://github.com/user-attachments/assets/4b121a71-7f39-4c21-b163-34d45a6e5ba6
+
+
 
