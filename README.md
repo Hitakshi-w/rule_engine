@@ -3,12 +3,12 @@ Developed a simple 3-tier rule engine application (Simple UI, API, and Backend, 
 
 ### Table of Contents
 
--[Overview](#overview)
--[Features](#features)
--[Requirements](#requirements)
--[Setup](#setup)
--[Configuration](#configuration)
--[Usage](#usage)
+- [Overview](#overview)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Setup](#setup)
+- [Configuration](#configuration)
+- [Usage](#usage)
 
 ## Overview
 
